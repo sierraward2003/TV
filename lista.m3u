@@ -31,10 +31,10 @@ https://windnew.newkso.ru/wind/premium853/mono.m3u8
 https://windnew.newkso.ru/wind/premium852/mono.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4
-https://vavoo.to/play/4241820180/index.m3u8
+https://vavoo.to/play/2179822223/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4 (2)
-https://vavoo.to/play/2179822223/index.m3u8
+https://vavoo.to/play/4241820180/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4k.it" tvg-name="RAI 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Rai",RAI 4K
 https://vavoo.to/play/2049087681/index.m3u8
@@ -1054,10 +1054,10 @@ https://vavoo.to/play/2835333400/index.m3u8
 https://vavoo.to/play/3648324945/index.m3u8
 
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
-https://vavoo.to/play/3889279895/index.m3u8
+https://vavoo.to/play/3758728323/index.m3u8
 
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (2)
-https://vavoo.to/play/3758728323/index.m3u8
+https://vavoo.to/play/3889279895/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ONDA NOVARA TV" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
 https://vavoo.to/play/3134124967/index.m3u8
@@ -1396,13 +1396,13 @@ https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="fiawecround424hoursoflemansfreepractice1" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 1 (13:45)" tvg-logo="https://images.seeklogo.com/logo-png/45/3/fia-formula-one-world-championship-logo-png_seeklogo-457496.png" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 1 (13:45)
+#EXTINF:-1 tvg-id="fiawecround424hoursoflemansfreepractice1" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 1 (13:45)" tvg-logo="https://d3ie7ogstrup9y.cloudfront.net/wp-content/uploads/2020/10/27150110/WEC-Logos-2022-01.png" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 1 (13:45)
 https://windnew.newkso.ru/wind/premium879/mono.m3u8
 
 #EXTINF:-1 tvg-id="fiawecround424hoursoflemansqualifying" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Qualifying (18:30)" tvg-logo="https://d3ie7ogstrup9y.cloudfront.net/wp-content/uploads/2020/10/27150110/WEC-Logos-2022-01.png" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Qualifying (18:30)
 https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="fiawecround424hoursoflemansfreepractice2" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 2 (21:45)" tvg-logo="https://images.seeklogo.com/logo-png/40/3/fia-wrc-logo-png_seeklogo-401641.png?v=1955304869412507224" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 2 (21:45)
+#EXTINF:-1 tvg-id="fiawecround424hoursoflemansfreepractice2" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 2 (21:45)" tvg-logo="https://d3ie7ogstrup9y.cloudfront.net/wp-content/uploads/2020/10/27150110/WEC-Logos-2022-01.png" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 2 (21:45)
 https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
