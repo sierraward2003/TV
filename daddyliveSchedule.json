@@ -2677,7 +2677,9 @@
                         "channel_id": "306"
                     }
                 ]
-            },
+            }
+        ],
+        "Soccer</span>": [
             {
                 "time": "18:00",
                 "event": "England - EFL Trophy : Tranmere Rovers vs Nottingham Forest U21",
@@ -4112,7 +4114,9 @@
                         "channel_id": "910"
                     }
                 ]
-            },
+            }
+        ],
+        "Cricket</span>": [
             {
                 "time": "14:30",
                 "event": "Asia Cup : Afghanistan vs Hong Kong",
@@ -4130,7 +4134,9 @@
                         "channel_id": "370"
                     }
                 ]
-            },
+            }
+        ],
+        "Tennis</span>": [
             {
                 "time": "16:00",
                 "event": "Guadalajara-WTA & Sao Paulo-WTA Early Rounds",
@@ -4524,7 +4530,9 @@
                 "time": "18:10",
                 "event": "Challenger - Rennes (FRA) : Matteo Martineau vs Titouan Droguet",
                 "channels": []
-            },
+            }
+        ],
+        "Boxing</span>": [
             {
                 "time": "11:00",
                 "event": "World Boxing Championship | Liverpool Day 6 | Session 1 | Ring 2 | F51kg, F60kg, M55kg, M80kg",
@@ -4544,7 +4552,9 @@
                         "channel_id": "21"
                     }
                 ]
-            },
+            }
+        ],
+        "Motorsport</span>": [
             {
                 "time": "17:00",
                 "event": "Swedish Elitserien League Speedway : Vastervik vs Indianerna",
@@ -4554,7 +4564,9 @@
                         "channel_id": "550"
                     }
                 ]
-            },
+            }
+        ],
+        "WWE</span>": [
             {
                 "time": "00:00",
                 "event": "WWE NXT",
@@ -4576,7 +4588,9 @@
                         "channel_id": "412"
                     }
                 ]
-            },
+            }
+        ],
+        "MMA</span>": [
             {
                 "time": "00:00",
                 "event": "Dana White's Contender Series, Week 5 : Steven Asplund vs Anthony Guarascio",
@@ -4590,7 +4604,9 @@
                         "channel_id": "119"
                     }
                 ]
-            },
+            }
+        ],
+        "Golf</span>": [
             {
                 "time": "13:30",
                 "event": "College Golf Folds of Honor Collegiate, Second Round",
@@ -4610,7 +4626,9 @@
                         "channel_id": "318"
                     }
                 ]
-            },
+            }
+        ],
+        "Baseball</span>": [
             {
                 "time": "22:35",
                 "event": "MLB : Baltimore Orioles vs Pittsburgh Pirates",
@@ -4928,7 +4946,9 @@
                         "channel_id": "764"
                     }
                 ]
-            },
+            }
+        ],
+        "Basketball</span>": [
             {
                 "time": "13:50",
                 "event": "EuroBasket 2025 quarter-final : Turkey vs Poland",
@@ -5132,7 +5152,9 @@
                         "channel_id": "22"
                     }
                 ]
-            },
+            }
+        ],
+        "Beach Soccer</span>": [
             {
                 "time": "12:00",
                 "event": "EBSL Superfinal : Belarus vs Portugal",
@@ -5142,7 +5164,9 @@
                         "channel_id": "74"
                     }
                 ]
-            },
+            }
+        ],
+        "Cycling</span>": [
             {
                 "time": "12:50",
                 "event": "La Vuelta a Espa\u00f1a: Stage 16 Hilly | 172 km | 3470 m",
@@ -5222,7 +5246,9 @@
                         "channel_id": "41"
                     }
                 ]
-            },
+            }
+        ],
+        "Darts</span>": [
             {
                 "time": "12:00",
                 "event": "PDC Darts Players Championship 26 - Hall 39, Hildesheim",
@@ -5232,7 +5258,9 @@
                         "channel_id": "43"
                     }
                 ]
-            },
+            }
+        ],
+        "Floorball</span>": [
             {
                 "time": "18:20",
                 "event": "Women's Hockey: European Roller Hockey Championships : Portugal vs France",
@@ -5242,7 +5270,9 @@
                         "channel_id": "720"
                     }
                 ]
-            },
+            }
+        ],
+        "Futsal</span>": [
             {
                 "time": "23:00",
                 "event": "LNF : Dracena vs Corinthians",
@@ -5252,7 +5282,9 @@
                         "channel_id": "275"
                     }
                 ]
-            },
+            }
+        ],
+        "Horse Racing</span>": [
             {
                 "time": "12:30",
                 "event": "Live racing from around the UK",
@@ -5272,7 +5304,9 @@
                         "channel_id": "555"
                     }
                 ]
-            },
+            }
+        ],
+        "Ice Hockey</span>": [
             {
                 "time": "14:00",
                 "event": "KHL : Barys Astana vs Amur Khabarovsk",
@@ -5356,7 +5390,9 @@
                 "time": "17:45",
                 "event": "Swiss - NLA : Rapperswil Jona Lakers vs Langenau Tigers",
                 "channels": []
-            },
+            }
+        ],
+        "Squash</span>": [
             {
                 "time": "09:00",
                 "event": "Padel Tournament, Paris 9.9",
@@ -5366,7 +5402,9 @@
                         "channel_id": "142"
                     }
                 ]
-            },
+            }
+        ],
+        "Volleyball</span>": [
             {
                 "time": "22:30",
                 "event": "Women's College Volleyball : Georgia Tech vs. Tennessee",

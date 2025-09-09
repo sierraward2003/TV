@@ -22,13 +22,13 @@ https://new.newkso.ru/ddy6/premium850/mono.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1939210164/index.m3u8
+https://vavoo.to/play/246253359/index.m3u8
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai",RAI 2 (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/246253359/index.m3u8
+https://vavoo.to/play/1939210164/index.m3u8
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai",RAI 2 (D)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -40,13 +40,13 @@ https://new.newkso.ru/ddy6/premium851/mono.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/869117599/index.m3u8
+https://vavoo.to/play/1324733956/index.m3u8
 
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3 (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1324733956/index.m3u8
+https://vavoo.to/play/869117599/index.m3u8
 
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3 (2) (D)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -358,13 +358,13 @@ https://vavoo.to/play/2911178456/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3448075317/index.m3u8
+https://vavoo.to/play/3481346857/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3481346857/index.m3u8
+https://vavoo.to/play/3448075317/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (D)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -844,13 +844,13 @@ https://new.newkso.ru/wind/premium859/mono.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/500203271/index.m3u8
+https://vavoo.to/play/3131104474/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV",SKY CINEMA COMEDY (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3131104474/index.m3u8
+https://vavoo.to/play/500203271/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film & Serie TV",SKY CINEMA DRAMA
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -2706,6 +2706,45 @@ https://vavoo.to/play/3171202588/index.m3u8
 #EXTVLCOPT:http-origin=https://vavoo.to
 https://vavoo.to/play/2989824407/index.m3u8
 
+
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="worldcupqualifyingazerbaijanvsukraine" tvg-name="Soccer | World Cup Qualifying : Azerbaijan vs Ukraine (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Azerbaijan_vs_Ukraine.png" group-title="Eventi Live",Soccer | World Cup Qualifying : Azerbaijan vs Ukraine (18:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://new.newkso.ru/wind/premium870/mono.m3u8
+
+#EXTINF:-1 tvg-id="worldcupqualifyingarmeniavsirelandrepublic" tvg-name="Soccer | World Cup Qualifying : Armenia vs Ireland Republic (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Armenia_vs_Ireland Republic.png" group-title="Eventi Live",Soccer | World Cup Qualifying : Armenia vs Ireland Republic (18:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://new.newkso.ru/ddy6/premium462/mono.m3u8
+
+#EXTINF:-1 tvg-id="europeeurou21qualifyingnorthmacedoniau21vsitalyu21" tvg-name="Soccer | Europe - Euro U-21 Qualifying : North Macedonia U21 vs Italy U21 (18:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/North Macedonia U21_vs_Italy U21.png" group-title="Eventi Live",Soccer | Europe - Euro U-21 Qualifying : North Macedonia U21 vs Italy U21 (18:15)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://new.newkso.ru/ddy6/premium851/mono.m3u8
+
+#EXTINF:-1 tvg-id="guadalajarawtasaopaulowtaearlyrounds" tvg-name="Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://thumbor.prod.vidiocdn.com/rvZyYPESEbmbQvGyBuuqhGWzCQo=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/160/wta-0854ce.png" group-title="Eventi Live",Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://new.newkso.ru/ddy6/premium576/mono.m3u8
+
+#EXTINF:-1 tvg-id="lavueltaaespañastage16hilly172km3470m" tvg-name="Cycling | La Vuelta a España: Stage 16 Hilly | 172 km | 3470 m (14:50)" tvg-logo="https://www.sportpools.net/dist/images/logos/logo-vuelta.png" group-title="Eventi Live",Cycling | La Vuelta a España: Stage 16 Hilly | 172 km | 3470 m (14:50)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://new.newkso.ru/wind/premium878/mono.m3u8
+
+#EXTINF:-1 tvg-id="ucicrosscountryshorttrackworldchampionshipswomenelite" tvg-name="Cycling | UCI Cross-country Short Track World Championships | Women Elite (17:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UCI Cross-country Short Track World Championships | Women Elite (17:00)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://new.newkso.ru/wind/premium878/mono.m3u8
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
