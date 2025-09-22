@@ -1,5 +1,17 @@
 {
     "Sunday 21st Sep 2025 - Schedule Time UK GMT": {
+        "Big Brother Naija 2025 (DSTV CAM)</span>": [
+            {
+                "time": "01:08",
+                "event": "Big Brother Naija 2025",
+                "channels": [
+                    {
+                        "channel_name": "MainFeed",
+                        "channel_id": "230"
+                    }
+                ]
+            }
+        ],
         "PPV Events</span>": [
             {
                 "time": "16:00",
