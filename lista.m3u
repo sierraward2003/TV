@@ -514,13 +514,13 @@ https://vavoo.to/play/1482866609/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2242741766/index.m3u8
+https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1144128726/index.m3u8
+https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (D)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1846,7 +1846,7 @@ https://thedaddy.click/stream/stream-190.php
 #EXTINF:-1 tvg-id="franceligue1metzvsolympiquemarseille" tvg-name="All Soccer Events | France - Ligue 1 : Metz vs Olympique Marseille (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Metz_vs_Olympique Marseille.png" group-title="Eventi Live",All Soccer Events | France - Ligue 1 : Metz vs Olympique Marseille (17:00)
 https://thedaddy.click/stream/stream-17.php
 
-#EXTINF:-1 tvg-id="italyseriebspeziavspalermo" tvg-name="All Soccer Events | Italy - Serie B : Spezia vs Palermo (17:15)" tvg-logo="https://miro.medium.com/v2/resize:fit:1200/1*D1HPtKnUEJTQA639FhufWA.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Spezia vs Palermo (17:15)
+#EXTINF:-1 tvg-id="italyseriebspeziavspalermo" tvg-name="All Soccer Events | Italy - Serie B : Spezia vs Palermo (17:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Spezia_vs_Palermo.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Spezia vs Palermo (17:15)
 https://thedaddy.click/stream/stream-152.php
 
 #EXTINF:-1 tvg-id="italyseriecrenatevscittadella" tvg-name="All Soccer Events | Italy - Serie C : Renate vs Cittadella (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Renate_vs_Cittadella.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Renate vs Cittadella (17:30)
@@ -1981,7 +1981,7 @@ https://new.newkso.ru/nfs/premium577/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="ufc320maincardmagomedankalaevvsalexpereira" tvg-name="UFC 320 - Ankalaev vs Pereira | UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (04:00)" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/7/7e/78090754-C35B-4445-AD6F-CCC48CE20431.png/revision/latest?cb=20200811011735" group-title="Eventi Live",UFC 320 - Ankalaev vs Pereira | UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (04:00)
+#EXTINF:-1 tvg-id="ufc320maincardmagomedankalaevvsalexpereira" tvg-name="UFC 320 - Ankalaev vs Pereira | UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (04:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Magomed Ankalaev_vs_Alex Pereira.png" group-title="Eventi Live",UFC 320 - Ankalaev vs Pereira | UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (04:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
