@@ -1180,13 +1180,13 @@ https://vavoo.to/play/2392139008/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1200985239/index.m3u8
+https://vavoo.to/play/1565298794/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIA 3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1565298794/index.m3u8
+https://vavoo.to/play/1200985239/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1252,13 +1252,13 @@ https://vavoo.to/play/3134124967/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/203130779/index.m3u8
+https://vavoo.to/play/1641481816/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ONDA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Og_2yYQhg-ersjEG5xZ99bri_Di4l5dlyw&s" group-title="Altro",ONDA TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1641481816/index.m3u8
+https://vavoo.to/play/203130779/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ORLER TV" tvg-logo="https://www.tvdream.net/img/orlertv.png" group-title="Altro",ORLER TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1909,31 +1909,13 @@ https://new.newkso.ru/wind/premium870/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium461/mono.m3u8
 
-#EXTINF:-1 tvg-id="2025rolexshanghaimasterstennisearlyroundcoverageday9" tvg-name="Tennis | 2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 9 (06:30)" tvg-logo="https://png.pngtree.com/png-clipart/20241008/original/pngtree-calendar-2025-color-calendar-vector-png-image_16248596.png" group-title="Eventi Live",Tennis | 2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 9 (06:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/ddy6/premium576/mono.m3u8
-
 #EXTINF:-1 tvg-id="beijingwtasemifinalsshanghaiatp2ndround" tvg-name="Tennis | Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)" tvg-logo="https://news.cgtn.com/news/2023-03-01/Bell-and-Drum-Towers-a-highlight-of-Central-Axis-of-Beijing-1hOMITSqMeI/img/865a16ab4cb64bb09d6b2e687b47b6e8/865a16ab4cb64bb09d6b2e687b47b6e8-750.png" group-title="Eventi Live",Tennis | Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium576/mono.m3u8
 
-#EXTINF:-1 tvg-id="moto3greekgrandprixofindonesiaqualifying" tvg-name="Motorsport | Moto3 : Greek Grand Prix of Indonesia Qualifying (07:00)" tvg-logo="https://1.bp.blogspot.com/-Kz3F9RMG_M0/XPU-eFuDj4I/AAAAAAAAIJg/N4FhR0pVZnsPTII5Mooq3NE8DXhtA6BiACLcBGAs/s72-c/Moto3%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsport | Moto3 : Greek Grand Prix of Indonesia Qualifying (07:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/nfs/premium575/mono.m3u8
-
-#EXTINF:-1 tvg-id="moto2greekgrandprixofindonesiaqualifying" tvg-name="Motorsport | Moto2 : Greek Grand Prix of Indonesia Qualifying (07:40)" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-logo-resmi-hut-tni-ke-77-2022-adalah-kita-png-image_8630838.png" group-title="Eventi Live",Motorsport | Moto2 : Greek Grand Prix of Indonesia Qualifying (07:40)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/nfs/premium575/mono.m3u8
-
-#EXTINF:-1 tvg-id="motogpgreekgrandprixofindonesiasprintrace" tvg-name="Motorsport | MotoGP : Greek Grand Prix of Indonesia Sprint Race (08:45)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : Greek Grand Prix of Indonesia Sprint Race (08:45)
+#EXTINF:-1 tvg-id="motogpgreekgrandprixofindonesiasprintrace" tvg-name="Motorsport | MotoGP : Greek Grand Prix of Indonesia Sprint Race (08:45)" tvg-logo="https://images.seeklogo.com/logo-png/41/3/motogp-logo-png_seeklogo-410139.png" group-title="Eventi Live",Motorsport | MotoGP : Greek Grand Prix of Indonesia Sprint Race (08:45)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -1952,12 +1934,6 @@ https://new.newkso.ru/nfs/premium577/mono.m3u8
 https://new.newkso.ru/nfs/premium577/mono.m3u8
 
 #EXTINF:-1 tvg-id="worldchampionshipmotocrossofnations1strace" tvg-name="Motorsport | World Championship | Motocross of Nations 1st Race (19:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/019/053/744/non_2x/world-globe-earth-map-png.png" group-title="Eventi Live",Motorsport | World Championship | Motocross of Nations 1st Race (19:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-id="touroflangkawistage7menmelakamedini2149km" tvg-name="Cycling | Tour of Langkawi | Stage 7 Men | Melaka – Medini (214.9km) (08:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tour of Langkawi | Stage 7 Men | Melaka – Medini (214.9km) (08:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
