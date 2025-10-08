@@ -1774,19 +1774,13 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="fifau20wcargentinau20vsnigeriau20" tvg-name="Soccer | FIFA U20 WC : Argentina U20 vs Nigeria U20 (21:30)" tvg-logo="https://webp.vp.cdn.pxr.nl/tag/clubs/472821.png?width=1200" group-title="Eventi Live",Soccer | FIFA U20 WC : Argentina U20 vs Nigeria U20 (21:30)
+#EXTINF:-1 tvg-id="fifau20wcargentinau20vsnigeriau20" tvg-name="Soccer | FIFA U20 WC : Argentina U20 vs Nigeria U20 (21:30)" tvg-logo="https://www.playmakerstats.com/img/bandeiras/4_arg_imgbank_flag.png" group-title="Eventi Live",Soccer | FIFA U20 WC : Argentina U20 vs Nigeria U20 (21:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium882/mono.m3u8
 
-#EXTINF:-1 tvg-id="fifau20wcjapanu20vsfranceu20" tvg-name="Soccer | FIFA U20 WC : Japan U20 vs France U20 (01:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Japan U20_vs_France U20.png" group-title="Eventi Live",Soccer | FIFA U20 WC : Japan U20 vs France U20 (01:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/ddy6/premium882/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentenniswtaearlyroundcoverageday3" tvg-name="Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)" tvg-logo="https://static.flashscore.com/res/image/data/MRDqVs7j-SMahOrKt.png" group-title="Eventi Live",Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)
+#EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentenniswtaearlyroundcoverageday3" tvg-name="Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2024/05/01/c9e28a89-40d9-42f4-8a17-8f2a5b6f49cc/Day-Torso_322534-WTA-Tennis.png?width=950" group-title="Eventi Live",Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 (13:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
