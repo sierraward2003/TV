@@ -1024,13 +1024,13 @@ https://vavoo.to/play/996680722/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3107500995/index.m3u8
+https://vavoo.to/play/2749478718/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro",CANALE 8 (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2749478718/index.m3u8
+https://vavoo.to/play/3107500995/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARINA TV" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro",CARINA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1773,12 +1773,6 @@ https://vavoo.to/play/2989824407/index.m3u8
 
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="worldcupqualifyingfinlandvslithuania" tvg-name="Soccer | World Cup Qualifying : Finland vs Lithuania (18:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230810/original/pngtree-vector-illustration-of-the-finnish-flag-against-a-white-backdrop-vector-picture-image_10229632.png" group-title="Eventi Live",Soccer | World Cup Qualifying : Finland vs Lithuania (18:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/wind/premium870/mono.m3u8
 
 #EXTINF:-1 tvg-id="friendlyenglandvswales" tvg-name="Soccer | Friendly : England vs Wales (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/England_vs_Wales.png" group-title="Eventi Live",Soccer | Friendly : England vs Wales (20:45)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
