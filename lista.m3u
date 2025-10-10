@@ -1024,13 +1024,13 @@ https://vavoo.to/play/996680722/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2749478718/index.m3u8
+https://vavoo.to/play/3107500995/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro",CANALE 8 (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3107500995/index.m3u8
+https://vavoo.to/play/2749478718/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARINA TV" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro",CARINA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1786,7 +1786,7 @@ https://new.newkso.ru/wind/premium870/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium851/mono.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecarezzovsgubbio" tvg-name="All Soccer Events | Italy - Serie C : Arezzo vs Gubbio (20:30)" tvg-logo="https://cesenafc.com/Media/900028dc-92db-46f9-aa44-8f246318d1ea/gubbio (1).png?col=6" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Arezzo vs Gubbio (20:30)
+#EXTINF:-1 tvg-id="italyseriecarezzovsgubbio" tvg-name="All Soccer Events | Italy - Serie C : Arezzo vs Gubbio (20:30)" tvg-logo="https://www.modenarugby1965.it/wp-content/uploads/2023/08/logo-RG.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Arezzo vs Gubbio (20:30)
 https://thedaddy.click/stream/stream-105.php
 
 #EXTINF:-1 tvg-id="italyseriecbravsathleticcarpi" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Athletic Carpi (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bra_vs_Athletic Carpi.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Bra vs Athletic Carpi (20:30)
