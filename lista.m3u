@@ -1234,13 +1234,13 @@ https://vavoo.to/play/2835333400/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3758728323/index.m3u8
+https://vavoo.to/play/3889279895/index.m3u8
 
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3889279895/index.m3u8
+https://vavoo.to/play/3758728323/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ONDA NOVARA TV" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1780,7 +1780,7 @@ https://example.com.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/nfs/premium877/mono.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecgianaerminiovsnovara" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs Novara (14:30)" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fsoccer%2F500%2F3954.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Giana Erminio vs Novara (14:30)
+#EXTINF:-1 tvg-id="italyseriecgianaerminiovsnovara" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs Novara (14:30)" tvg-logo="https://www.novarafootballclub.it/wp-content/uploads/2021/09/cropped-logo-novara-favicon.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Giana Erminio vs Novara (14:30)
 https://thedaddy.click/stream/stream-170.php
 
 #EXTINF:-1 tvg-id="italyseriecperugiavsrimini" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Rimini (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Perugia_vs_Rimini.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Perugia vs Rimini (14:30)
@@ -1897,7 +1897,7 @@ https://new.newkso.ru/wind/premium878/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium851/mono.m3u8
 
-#EXTINF:-1 tvg-id="touroflombardyillombardiamencomobergamo238km" tvg-name="Cycling | Tour of Lombardy Il Lombardia Men | Como - Bergamo (238km) (10:30)" tvg-logo="https://teamtotalenergies.com/wp-content/uploads/2022/09/il-lombardia-6022.png" group-title="Eventi Live",Cycling | Tour of Lombardy Il Lombardia Men | Como - Bergamo (238km) (10:30)
+#EXTINF:-1 tvg-id="touroflombardyillombardiamencomobergamo238km" tvg-name="Cycling | Tour of Lombardy Il Lombardia Men | Como - Bergamo (238km) (10:30)" tvg-logo="https://www.wanderingitaly.com/maps/images/lombardia-map-900.png" group-title="Eventi Live",Cycling | Tour of Lombardy Il Lombardia Men | Como - Bergamo (238km) (10:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
