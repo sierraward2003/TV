@@ -1024,13 +1024,13 @@ https://vavoo.to/play/996680722/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2749478718/index.m3u8
+https://vavoo.to/play/3107500995/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro",CANALE 8 (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3107500995/index.m3u8
+https://vavoo.to/play/2749478718/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARINA TV" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro",CARINA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1831,7 +1831,7 @@ https://thedaddy.click/stream/stream-4.php
 #EXTINF:-1 tvg-id="italyseriecospitalettovsunionarzignanochiampo" tvg-name="Soccer | Italy - Serie C : Ospitaletto vs Union ArzignanoChiampo (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ospitaletto_vs_Union ArzignanoChiampo.png" group-title="Eventi Live",Soccer | Italy - Serie C : Ospitaletto vs Union ArzignanoChiampo (17:30)
 https://thedaddy.click/stream/stream-109.php
 
-#EXTINF:-1 tvg-id="italyseriecascolivspontedera" tvg-name="Soccer | Italy - Serie C : Ascoli vs Pontedera (17:30)" tvg-logo="https://iconape.com/wp-content/files/ir/331147/png/us-citta-di-pontedera-seeklogo.com.png" group-title="Eventi Live",Soccer | Italy - Serie C : Ascoli vs Pontedera (17:30)
+#EXTINF:-1 tvg-id="italyseriecascolivspontedera" tvg-name="Soccer | Italy - Serie C : Ascoli vs Pontedera (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ascoli_vs_Pontedera.png" group-title="Eventi Live",Soccer | Italy - Serie C : Ascoli vs Pontedera (17:30)
 https://thedaddy.click/stream/stream-7.php
 
 #EXTINF:-1 tvg-id="italyseriecbeneventovsteamaltamura" tvg-name="Soccer | Italy - Serie C : Benevento vs Team Altamura (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Benevento_vs_Team Altamura.png" group-title="Eventi Live",Soccer | Italy - Serie C : Benevento vs Team Altamura (17:30)
@@ -1852,7 +1852,7 @@ https://thedaddy.click/stream/stream-7.php
 #EXTINF:-1 tvg-id="italyseriecpropatriavsunionbrescia" tvg-name="Soccer | Italy - Serie C : Pro Patria vs Union Brescia (20:30)" tvg-logo="https://www.tifobrescia.it/wp-content/uploads/2025/07/Logo-Union-Brescia.png" group-title="Eventi Live",Soccer | Italy - Serie C : Pro Patria vs Union Brescia (20:30)
 https://thedaddy.click/stream/stream-2.php
 
-#EXTINF:-1 tvg-id="italyseriecpropatriavsunionbrescia" tvg-name="Soccer | Italy - Serie C : Pro Patria vs Union Brescia (20:30)" tvg-logo="https://www.tifobrescia.it/wp-content/uploads/2025/07/Logo-Union-Brescia.png" group-title="Eventi Live",Soccer | Italy - Serie C : Pro Patria vs Union Brescia (20:30)
+#EXTINF:-1 tvg-id="italyseriecpropatriavsunionbrescia" tvg-name="Soccer | Italy - Serie C : Pro Patria vs Union Brescia (20:30)" group-title="Eventi Live",Soccer | Italy - Serie C : Pro Patria vs Union Brescia (20:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -1870,13 +1870,13 @@ https://new.newkso.ru/wind/premium870/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium461/mono.m3u8
 
-#EXTINF:-1 tvg-id="fifau20wcquarterfinal3unitedstatesu20vsmoroccou20" tvg-name="Soccer | FIFA U20 WC Quarter Final 3 : United States U20 vs Morocco U20 (22:00)" tvg-logo="https://tmssl.akamaized.net/images/wappen/promitipp/11946.png?lm=1464192727" group-title="Eventi Live",Soccer | FIFA U20 WC Quarter Final 3 : United States U20 vs Morocco U20 (22:00)
+#EXTINF:-1 tvg-id="fifau20wcquarterfinal3unitedstatesu20vsmoroccou20" tvg-name="Soccer | FIFA U20 WC Quarter Final 3 : United States U20 vs Morocco U20 (22:00)" tvg-logo="https://www.futbol24.com/upload/team/CONCACAF/USA-U20.png" group-title="Eventi Live",Soccer | FIFA U20 WC Quarter Final 3 : United States U20 vs Morocco U20 (22:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium882/mono.m3u8
 
-#EXTINF:-1 tvg-id="2025shanghaiatpwuhanwtafinals" tvg-name="Tennis | 2025 Shanghai-ATP & Wuhan-WTA Finals (13:00)" tvg-logo="https://www.tennis.com/assets/logos/wta_championships.png" group-title="Eventi Live",Tennis | 2025 Shanghai-ATP & Wuhan-WTA Finals (13:00)
+#EXTINF:-1 tvg-id="2025shanghaiatpwuhanwtafinals" tvg-name="Tennis | 2025 Shanghai-ATP & Wuhan-WTA Finals (13:00)" tvg-logo="https://obj.shine.cn/files/2017/09/18/f46189ed-0067-426c-b7d4-18e84a75b2cb_0.png" group-title="Eventi Live",Tennis | 2025 Shanghai-ATP & Wuhan-WTA Finals (13:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -1894,7 +1894,7 @@ https://new.newkso.ru/wind/premium878/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="goldentrailledroskytrentinoday2" tvg-name="Athletics | Golden Trail Ledro Sky Trentino | Day 2 (12:00)" tvg-logo="https://goldentrailseries.com/wp-content/uploads/2025/06/GG-20250623_LEDROSKY_LOGO_nero_RGB.png" group-title="Eventi Live",Athletics | Golden Trail Ledro Sky Trentino | Day 2 (12:00)
+#EXTINF:-1 tvg-id="goldentrailledroskytrentinoday2" tvg-name="Athletics | Golden Trail Ledro Sky Trentino | Day 2 (12:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/020/967/145/original/cute-minimal-calendar-day-2-illustration-sticker-template-decorated-png.png" group-title="Eventi Live",Athletics | Golden Trail Ledro Sky Trentino | Day 2 (12:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -1906,7 +1906,7 @@ https://new.newkso.ru/wind/premium878/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium882/mono.m3u8
 
-#EXTINF:-1 tvg-id="ucigravelworldchampionshipsmenelitesouthlimburg180km" tvg-name="Cycling | UCI Gravel World Championships Men Elite | South Limburg (180km) (14:15)" tvg-logo="https://cdn.raceroster.com/event-logo/qzrqpy9at2pff35x._original.png" group-title="Eventi Live",Cycling | UCI Gravel World Championships Men Elite | South Limburg (180km) (14:15)
+#EXTINF:-1 tvg-id="ucigravelworldchampionshipsmenelitesouthlimburg180km" tvg-name="Cycling | UCI Gravel World Championships Men Elite | South Limburg (180km) (14:15)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5dc469f34412757d7ba57385/10ecb059-583c-432d-aafe-5b75c44b4336/Safari+Grave+Race+logo+Greens+(1).png?format=1500w" group-title="Eventi Live",Cycling | UCI Gravel World Championships Men Elite | South Limburg (180km) (14:15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -1918,7 +1918,7 @@ https://new.newkso.ru/wind/premium879/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="capannelletrottingderbyrome2025" tvg-name="Horse Racing | Capannelle Trotting Derby Rome 2025 (17:30)" tvg-logo="https://www.its-aste.com/wp-content/themes/ITSaste/images/campioni/ROBERT BI_3.png" group-title="Eventi Live",Horse Racing | Capannelle Trotting Derby Rome 2025 (17:30)
+#EXTINF:-1 tvg-id="capannelletrottingderbyrome2025" tvg-name="Horse Racing | Capannelle Trotting Derby Rome 2025 (17:30)" tvg-logo="https://assets.stickpng.com/thumbs/6286515cc871aa4d2feea1ea.png" group-title="Eventi Live",Horse Racing | Capannelle Trotting Derby Rome 2025 (17:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
