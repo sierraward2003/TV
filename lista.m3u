@@ -1012,13 +1012,13 @@ https://vavoo.to/play/2454558136/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/996680722/index.m3u8
+https://vavoo.to/play/565256431/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png" group-title="Altro",CANALE 7 (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/565256431/index.m3u8
+https://vavoo.to/play/996680722/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro",CANALE 8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1786,7 +1786,7 @@ https://thedaddy.click/stream/stream-151.php
 #EXTINF:-1 tvg-id="italyseriecnovaravsunionarzignanochiampo" tvg-name="All Soccer Events | Italy - Serie C : Novara vs Union ArzignanoChiampo (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Novara_vs_Union ArzignanoChiampo.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Novara vs Union ArzignanoChiampo (20:30)
 https://thedaddy.click/stream/stream-152.php
 
-#EXTINF:-1 tvg-id="italyseriecsassaritorresvsforlì" tvg-name="All Soccer Events | Italy - Serie C : Sassari Torres vs Forlì (20:30)" tvg-logo="http://www.lega-pro.com/wp-content/themes/ascent/includes/images/squadre/2016/gironeB/forlì.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Sassari Torres vs Forlì (20:30)
+#EXTINF:-1 tvg-id="italyseriecsassaritorresvsforlì" tvg-name="All Soccer Events | Italy - Serie C : Sassari Torres vs Forlì (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sassari Torres_vs_Forlì.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Sassari Torres vs Forlì (20:30)
 https://thedaddy.click/stream/stream-153.php
 
 #EXTINF:-1 tvg-id="italyseriecalcionevsinterii" tvg-name="All Soccer Events | Italy - Serie C : Alcione vs Inter II (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Alcione_vs_Inter II.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Alcione vs Inter II (20:30)
@@ -1837,37 +1837,31 @@ https://new.newkso.ru/nfs/premium577/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="moto3australiangrandprixqualifying" tvg-name="Motorsport | Moto3 : Australian Grand Prix, Qualifying (03:45)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : Australian Grand Prix, Qualifying (03:45)
+#EXTINF:-1 tvg-id="moto2australiangrandprixqualifying" tvg-name="Motorsport | Moto2 : Australian Grand Prix, Qualifying (04:40)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/yqvtrq1432309315.png" group-title="Eventi Live",Motorsport | Moto2 : Australian Grand Prix, Qualifying (04:40)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="moto2australiangrandprixqualifying" tvg-name="Motorsport | Moto2 : Australian Grand Prix, Qualifying (04:40)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsport | Moto2 : Australian Grand Prix, Qualifying (04:40)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/nfs/premium575/mono.m3u8
-
-#EXTINF:-1 tvg-id="tourofhollandstage3mensittardwatersley154km" tvg-name="Cycling | Tour of Holland | Stage 3 Men | Sittard – Watersley (154km) (13:45)" tvg-logo="https://www.sportuitslagen.org/images/epreuves/6925.png" group-title="Eventi Live",Cycling | Tour of Holland | Stage 3 Men | Sittard – Watersley (154km) (13:45)
+#EXTINF:-1 tvg-id="tourofhollandstage3mensittardwatersley154km" tvg-name="Cycling | Tour of Holland | Stage 3 Men | Sittard – Watersley (154km) (13:45)" tvg-logo="https://png.pngtree.com/png-clipart/20230805/original/pngtree-amsterdam-the-capital-of-holland-sign-tour-pictogram-vector-picture-image_9725402.png" group-title="Eventi Live",Cycling | Tour of Holland | Stage 3 Men | Sittard – Watersley (154km) (13:45)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="grandprixfrancewomensindividualshortprogram" tvg-name="Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.758da5c1-fc47-419f-9e58-bcd2ee6acccd/1/BOXART-16X9/en-US._UR1920,1080_SX500_FMpng_.png" group-title="Eventi Live",Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)
+#EXTINF:-1 tvg-id="grandprixfrancewomensindividualshortprogram" tvg-name="Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium882/mono.m3u8
 
-#EXTINF:-1 tvg-id="grandprixfrancewomensindividualshortprogram" tvg-name="Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)
+#EXTINF:-1 tvg-id="grandprixfrancewomensindividualshortprogram" tvg-name="Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.758da5c1-fc47-419f-9e58-bcd2ee6acccd/1/BOXART-16X9/en-US._UR1920,1080_SX500_FMpng_.png" group-title="Eventi Live",Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/wind/premium879/mono.m3u8
 
-#EXTINF:-1 tvg-id="figureskatingfrenchgrandprixpairsshortprogram" tvg-name="Ice Skating | Figure Skating: French Grand Prix Pairs Short Program (20:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230811/original/pngtree-vector-illustration-of-a-speed-ice-skating-logo-featuring-text-space-for-your-slogan-or-tagline-vector-picture-image_10300771.png" group-title="Eventi Live",Ice Skating | Figure Skating: French Grand Prix Pairs Short Program (20:00)
+#EXTINF:-1 tvg-id="figureskatingfrenchgrandprixpairsshortprogram" tvg-name="Ice Skating | Figure Skating: French Grand Prix Pairs Short Program (20:00)" tvg-logo="https://png.pngtree.com/png-vector/20220605/ourmid/pngtree-vector-illustration-of-a-speed-ice-skating-logo-featuring-text-space-for-your-slogan-or-tagline-vector-png-image_30999386.png" group-title="Eventi Live",Ice Skating | Figure Skating: French Grand Prix Pairs Short Program (20:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
