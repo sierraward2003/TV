@@ -1774,109 +1774,115 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieawomensassuolovscomo" tvg-name="Soccer | Italy - Serie A (women) : Sassuolo vs Como (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sassuolo_vs_Como.png" group-title="Eventi Live",Soccer | Italy - Serie A (women) : Sassuolo vs Como (12:30)
+#EXTINF:-1 tvg-id="italyserieawomensassuolovscomo" tvg-name="All Soccer Events | Italy - Serie A (women) : Sassuolo vs Como (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sassuolo_vs_Como.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A (women) : Sassuolo vs Como (12:30)
 https://thedaddy.click/stream/stream-55.php
 
-#EXTINF:-1 tvg-id="italyserieawomengenoavsternana" tvg-name="Soccer | Italy - Serie A (women) : Genoa vs Ternana (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Genoa_vs_Ternana.png" group-title="Eventi Live",Soccer | Italy - Serie A (women) : Genoa vs Ternana (12:30)
+#EXTINF:-1 tvg-id="italyserieawomengenoavsternana" tvg-name="All Soccer Events | Italy - Serie A (women) : Genoa vs Ternana (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Genoa_vs_Ternana.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A (women) : Genoa vs Ternana (12:30)
 https://thedaddy.click/stream/stream-59.php
 
-#EXTINF:-1 tvg-id="englandpremierleaguenottinghamforestvschelsea" tvg-name="Soccer | England - Premier League : Nottingham Forest vs Chelsea (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Nottingham Forest_vs_Chelsea.png" group-title="Eventi Live",Soccer | England - Premier League : Nottingham Forest vs Chelsea (13:30)
+#EXTINF:-1 tvg-id="englandpremierleaguenottinghamforestvschelsea" tvg-name="All Soccer Events | England - Premier League : Nottingham Forest vs Chelsea (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Nottingham Forest_vs_Chelsea.png" group-title="Eventi Live",All Soccer Events | England - Premier League : Nottingham Forest vs Chelsea (13:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecrenatevsdolomitibellunesi" tvg-name="Soccer | Italy - Serie C : Renate vs Dolomiti Bellunesi (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Renate_vs_Dolomiti Bellunesi.png" group-title="Eventi Live",Soccer | Italy - Serie C : Renate vs Dolomiti Bellunesi (14:30)
+#EXTINF:-1 tvg-id="italyseriecrenatevsdolomitibellunesi" tvg-name="All Soccer Events | Italy - Serie C : Renate vs Dolomiti Bellunesi (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Renate_vs_Dolomiti Bellunesi.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Renate vs Dolomiti Bellunesi (14:30)
 https://thedaddy.click/stream/stream-207.php
 
-#EXTINF:-1 tvg-id="italyseriectriestinavspergolettese" tvg-name="Soccer | Italy - Serie C : Triestina vs Pergolettese (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Triestina_vs_Pergolettese.png" group-title="Eventi Live",Soccer | Italy - Serie C : Triestina vs Pergolettese (14:30)
+#EXTINF:-1 tvg-id="italyseriectriestinavspergolettese" tvg-name="All Soccer Events | Italy - Serie C : Triestina vs Pergolettese (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Triestina_vs_Pergolettese.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Triestina vs Pergolettese (14:30)
 https://thedaddy.click/stream/stream-161.php
 
-#EXTINF:-1 tvg-id="italyserieclivornovssambenedettese" tvg-name="Soccer | Italy - Serie C : Livorno vs Sambenedettese (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Livorno_vs_Sambenedettese.png" group-title="Eventi Live",Soccer | Italy - Serie C : Livorno vs Sambenedettese (14:30)
+#EXTINF:-1 tvg-id="italyserieclivornovssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Livorno vs Sambenedettese (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Livorno_vs_Sambenedettese.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Livorno vs Sambenedettese (14:30)
 https://thedaddy.click/stream/stream-163.php
 
-#EXTINF:-1 tvg-id="italyseriecsorrentovscosenza" tvg-name="Soccer | Italy - Serie C : Sorrento vs Cosenza (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sorrento_vs_Cosenza.png" group-title="Eventi Live",Soccer | Italy - Serie C : Sorrento vs Cosenza (14:30)
+#EXTINF:-1 tvg-id="italyseriecsorrentovscosenza" tvg-name="All Soccer Events | Italy - Serie C : Sorrento vs Cosenza (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sorrento_vs_Cosenza.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Sorrento vs Cosenza (14:30)
 https://thedaddy.click/stream/stream-162.php
 
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsfoggia" tvg-name="Soccer | Italy - Serie C : Virtus Casarano vs Foggia (14:30)" tvg-logo="https://img.datasport.it/img/logos/squadre/foggia.png" group-title="Eventi Live",Soccer | Italy - Serie C : Virtus Casarano vs Foggia (14:30)
+#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsfoggia" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Foggia (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Casarano_vs_Foggia.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Virtus Casarano vs Foggia (14:30)
 https://thedaddy.click/stream/stream-213.php
 
-#EXTINF:-1 tvg-id="italyserieccrotonevsmonopoli" tvg-name="Soccer | Italy - Serie C : Crotone vs Monopoli (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Crotone_vs_Monopoli.png" group-title="Eventi Live",Soccer | Italy - Serie C : Crotone vs Monopoli (14:30)
+#EXTINF:-1 tvg-id="italyserieccrotonevsmonopoli" tvg-name="All Soccer Events | Italy - Serie C : Crotone vs Monopoli (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Crotone_vs_Monopoli.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Crotone vs Monopoli (14:30)
 https://thedaddy.click/stream/stream-164.php
 
-#EXTINF:-1 tvg-id="italyserieawomenfiorentinavsmilan" tvg-name="Soccer | Italy - Serie A (women) : Fiorentina vs Milan (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Milan.png" group-title="Eventi Live",Soccer | Italy - Serie A (women) : Fiorentina vs Milan (15:00)
+#EXTINF:-1 tvg-id="italyserieawomenfiorentinavsmilan" tvg-name="All Soccer Events | Italy - Serie A (women) : Fiorentina vs Milan (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Milan.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A (women) : Fiorentina vs Milan (15:00)
 https://thedaddy.click/stream/stream-69.php
 
-#EXTINF:-1 tvg-id="italyseriealeccevssassuolo" tvg-name="Soccer | Italy - Serie A : Lecce vs Sassuolo (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecce_vs_Sassuolo.png" group-title="Eventi Live",Soccer | Italy - Serie A : Lecce vs Sassuolo (15:00)
+#EXTINF:-1 tvg-id="italyseriealeccevssassuolo" tvg-name="All Soccer Events | Italy - Serie A : Lecce vs Sassuolo (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecce_vs_Sassuolo.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A : Lecce vs Sassuolo (15:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/nfs/premium877/mono.m3u8
 
-#EXTINF:-1 tvg-id="italyserieapisavshellasverona" tvg-name="Soccer | Italy - Serie A : Pisa vs Hellas Verona (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pisa_vs_Hellas Verona.png" group-title="Eventi Live",Soccer | Italy - Serie A : Pisa vs Hellas Verona (15:00)
+#EXTINF:-1 tvg-id="italyserieapisavshellasverona" tvg-name="All Soccer Events | Italy - Serie A : Pisa vs Hellas Verona (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pisa_vs_Hellas Verona.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A : Pisa vs Hellas Verona (15:00)
 https://thedaddy.click/stream/stream-76.php
 
-#EXTINF:-1 tvg-id="italyseriebfrosinonevsmonza" tvg-name="Soccer | Italy - Serie B : Frosinone vs Monza (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Frosinone_vs_Monza.png" group-title="Eventi Live",Soccer | Italy - Serie B : Frosinone vs Monza (15:00)
+#EXTINF:-1 tvg-id="italyseriebfrosinonevsmonza" tvg-name="All Soccer Events | Italy - Serie B : Frosinone vs Monza (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Frosinone_vs_Monza.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Frosinone vs Monza (15:00)
 https://thedaddy.click/stream/stream-105.php
 
-#EXTINF:-1 tvg-id="italyseriebreggianavsbari1908" tvg-name="Soccer | Italy - Serie B : Reggiana vs Bari 1908 (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Reggiana_vs_Bari 1908.png" group-title="Eventi Live",Soccer | Italy - Serie B : Reggiana vs Bari 1908 (15:00)
+#EXTINF:-1 tvg-id="italyseriebreggianavsbari1908" tvg-name="All Soccer Events | Italy - Serie B : Reggiana vs Bari 1908 (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Reggiana_vs_Bari 1908.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Reggiana vs Bari 1908 (15:00)
 https://thedaddy.click/stream/stream-106.php
 
-#EXTINF:-1 tvg-id="italyseriebmantovavssüdtirol" tvg-name="Soccer | Italy - Serie B : Mantova vs Südtirol (15:00)" tvg-logo="https://latestlogo.com/wp-content/uploads/2024/04/mantova-fc-logo.png" group-title="Eventi Live",Soccer | Italy - Serie B : Mantova vs Südtirol (15:00)
+#EXTINF:-1 tvg-id="italyseriebmantovavssüdtirol" tvg-name="All Soccer Events | Italy - Serie B : Mantova vs Südtirol (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Mantova_vs_Südtirol.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Mantova vs Südtirol (15:00)
 https://thedaddy.click/stream/stream-107.php
 
-#EXTINF:-1 tvg-id="italyseriebpescaravscarrarese" tvg-name="Soccer | Italy - Serie B : Pescara vs Carrarese (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pescara_vs_Carrarese.png" group-title="Eventi Live",Soccer | Italy - Serie B : Pescara vs Carrarese (15:00)
+#EXTINF:-1 tvg-id="italyseriebpescaravscarrarese" tvg-name="All Soccer Events | Italy - Serie B : Pescara vs Carrarese (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pescara_vs_Carrarese.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Pescara vs Carrarese (15:00)
 https://thedaddy.click/stream/stream-108.php
 
-#EXTINF:-1 tvg-id="englandpremierleaguebrightonhovealbionvsnewcastleunited" tvg-name="Soccer | England - Premier League : Brighton & Hove Albion vs Newcastle United (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brighton & Hove Albion_vs_Newcastle United.png" group-title="Eventi Live",Soccer | England - Premier League : Brighton & Hove Albion vs Newcastle United (16:00)
+#EXTINF:-1 tvg-id="englandpremierleaguebrightonhovealbionvsnewcastleunited" tvg-name="All Soccer Events | England - Premier League : Brighton & Hove Albion vs Newcastle United (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brighton & Hove Albion_vs_Newcastle United.png" group-title="Eventi Live",All Soccer Events | England - Premier League : Brighton & Hove Albion vs Newcastle United (16:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="italyseriebjuvestabiavsavellino" tvg-name="Soccer | Italy - Serie B : Juve Stabia vs Avellino (17:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juve Stabia_vs_Avellino.png" group-title="Eventi Live",Soccer | Italy - Serie B : Juve Stabia vs Avellino (17:15)
+#EXTINF:-1 tvg-id="italyseriebjuvestabiavsavellino" tvg-name="All Soccer Events | Italy - Serie B : Juve Stabia vs Avellino (17:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juve Stabia_vs_Avellino.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Juve Stabia vs Avellino (17:15)
 https://thedaddy.click/stream/stream-160.php
 
-#EXTINF:-1 tvg-id="italyseriecospitalettovscittadella" tvg-name="Soccer | Italy - Serie C : Ospitaletto vs Cittadella (17:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/UTL0Y6sfmbpQfSz/cittadella-2023-logo.png" group-title="Eventi Live",Soccer | Italy - Serie C : Ospitaletto vs Cittadella (17:30)
+#EXTINF:-1 tvg-id="italyseriecospitalettovscittadella" tvg-name="All Soccer Events | Italy - Serie C : Ospitaletto vs Cittadella (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ospitaletto_vs_Cittadella.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Ospitaletto vs Cittadella (17:30)
 https://thedaddy.click/stream/stream-164.php
 
-#EXTINF:-1 tvg-id="italyseriecgubbiovsnuovamonterosi" tvg-name="Soccer | Italy - Serie C : Gubbio vs Nuova Monterosi (17:30)" tvg-logo="http://www.alkimiagubbio.com/wp-content/uploads/2021/11/logo_comune_gubbio.png" group-title="Eventi Live",Soccer | Italy - Serie C : Gubbio vs Nuova Monterosi (17:30)
+#EXTINF:-1 tvg-id="italyseriecgubbiovsnuovamonterosi" tvg-name="All Soccer Events | Italy - Serie C : Gubbio vs Nuova Monterosi (17:30)" tvg-logo="https://content.tuttocampo.it/Web/Images/Teams/Original/1100813.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Gubbio vs Nuova Monterosi (17:30)
 https://thedaddy.click/stream/stream-213.php
 
-#EXTINF:-1 tvg-id="italyseriecpianesevsbra" tvg-name="Soccer | Italy - Serie C : Pianese vs Bra (17:30)" tvg-logo="https://www.clipartkey.com/mpngs/b/43-436118_bra-clipart.png" group-title="Eventi Live",Soccer | Italy - Serie C : Pianese vs Bra (17:30)
+#EXTINF:-1 tvg-id="italyseriecpianesevsbra" tvg-name="All Soccer Events | Italy - Serie C : Pianese vs Bra (17:30)" tvg-logo="https://www.tradestockltd.co.uk/wp-content/uploads/2025/01/BRA-LOGO.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pianese vs Bra (17:30)
 https://thedaddy.click/stream/stream-161.php
 
-#EXTINF:-1 tvg-id="italyserieclatinavsgiugliano" tvg-name="Soccer | Italy - Serie C : Latina vs Giugliano (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Latina_vs_Giugliano.png" group-title="Eventi Live",Soccer | Italy - Serie C : Latina vs Giugliano (17:30)
+#EXTINF:-1 tvg-id="italyserieclatinavsgiugliano" tvg-name="All Soccer Events | Italy - Serie C : Latina vs Giugliano (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Latina_vs_Giugliano.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Latina vs Giugliano (17:30)
 https://thedaddy.click/stream/stream-162.php
 
-#EXTINF:-1 tvg-id="italyserieatorinovsnapoli" tvg-name="Soccer | Italy - Serie A : Torino vs Napoli (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Torino_vs_Napoli.png" group-title="Eventi Live",Soccer | Italy - Serie A : Torino vs Napoli (18:00)
+#EXTINF:-1 tvg-id="italyserieatorinovsnapoli" tvg-name="All Soccer Events | Italy - Serie A : Torino vs Napoli (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Torino_vs_Napoli.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A : Torino vs Napoli (18:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/nfs/premium877/mono.m3u8
 
-#EXTINF:-1 tvg-id="bundesligabayernmünchenvsborussiadortmund" tvg-name="Soccer | Bundesliga : Bayern München vs Borussia Dortmund (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bayern München_vs_Borussia Dortmund.png" group-title="Eventi Live",Soccer | Bundesliga : Bayern München vs Borussia Dortmund (18:30)
+#EXTINF:-1 tvg-id="bundesligabayernmünchenvsborussiadortmund" tvg-name="All Soccer Events | Bundesliga : Bayern München vs Borussia Dortmund (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bayern München_vs_Borussia Dortmund.png" group-title="Eventi Live",All Soccer Events | Bundesliga : Bayern München vs Borussia Dortmund (18:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="italyseriebspeziavscesena" tvg-name="Soccer | Italy - Serie B : Spezia vs Cesena (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Spezia_vs_Cesena.png" group-title="Eventi Live",Soccer | Italy - Serie B : Spezia vs Cesena (19:30)
+#EXTINF:-1 tvg-id="italyseriebspeziavscesena" tvg-name="All Soccer Events | Italy - Serie B : Spezia vs Cesena (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Spezia_vs_Cesena.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Spezia vs Cesena (19:30)
 https://thedaddy.click/stream/stream-77.php
 
-#EXTINF:-1 tvg-id="italyseriearomavsinternazionale" tvg-name="Soccer | Italy - Serie A : Roma vs Internazionale (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Internazionale.png" group-title="Eventi Live",Soccer | Italy - Serie A : Roma vs Internazionale (20:45)
+#EXTINF:-1 tvg-id="italyseriearomavsinternazionale" tvg-name="All Soccer Events | Italy - Serie A : Roma vs Internazionale (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Internazionale.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A : Roma vs Internazionale (20:45)
 https://thedaddy.click/stream/stream-163.php
 
-#EXTINF:-1 tvg-id="italyseriearomavsinternazionale" tvg-name="Soccer | Italy - Serie A : Roma vs Internazionale (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Internazionale.png" group-title="Eventi Live",Soccer | Italy - Serie A : Roma vs Internazionale (20:45)
+#EXTINF:-1 tvg-id="italyseriearomavsinternazionale" tvg-name="All Soccer Events | Italy - Serie A : Roma vs Internazionale (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Internazionale.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A : Roma vs Internazionale (20:45)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="franceligue1olympiquemarseillevslehavre" tvg-name="Soccer | France - Ligue 1 : Olympique Marseille vs Le Havre (21:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Marseille_vs_Le Havre.png" group-title="Eventi Live",Soccer | France - Ligue 1 : Olympique Marseille vs Le Havre (21:05)
+#EXTINF:-1 tvg-id="franceligue1olympiquemarseillevslehavre" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Marseille vs Le Havre (21:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Marseille_vs_Le Havre.png" group-title="Eventi Live",All Soccer Events | France - Ligue 1 : Olympique Marseille vs Le Havre (21:05)
 https://thedaddy.click/stream/stream-164.php
 
-#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)" tvg-logo="https://assets.stickpng.com/thumbs/6266993f2c88722059d58711.png" group-title="Eventi Live",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)
+#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2024/04/29/24dc3243-6bc3-4f67-948d-87ea6cf3717a/Sherif-Torso_318711-WTA-Tennis.png?width=950" group-title="Eventi Live",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://new.newkso.ru/ddy6/premium576/mono.m3u8
+
+#EXTINF:-1 tvg-id="centercourtliveosakawtasinglesfinal" tvg-name="Tennis | Center Court Live Osaka-WTA Singles Final (05:00)" tvg-logo="https://tennisliveranking.oss-ap-southeast-1.aliyuncs.com/assets/img/wta.png?t=20241030" group-title="Eventi Live",Tennis | Center Court Live Osaka-WTA Singles Final (05:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -1900,12 +1906,6 @@ https://new.newkso.ru/nfs/premium577/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/nfs/premium577/mono.m3u8
 
-#EXTINF:-1 tvg-id="motogpaustraliangrandprixwarmup" tvg-name="Motorsport | MotoGP : Australian Grand Prix, Warm Up (00:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : Australian Grand Prix, Warm Up (00:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/nfs/premium575/mono.m3u8
-
 #EXTINF:-1 tvg-id="moto3australiangrandprixrace" tvg-name="Motorsport | Moto3 : Australian Grand Prix, Race (01:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : Australian Grand Prix, Race (01:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
@@ -1918,13 +1918,13 @@ https://new.newkso.ru/nfs/premium575/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="ufcfightnightmaincardreinierderiddervsbrendanallen" tvg-name="MMA | UFC Fight Night Main Card : Reinier de Ridder vs Brendan Allen (01:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Reinier de Ridder_vs_Brendan Allen.png" group-title="Eventi Live",MMA | UFC Fight Night Main Card : Reinier de Ridder vs Brendan Allen (01:00)
+#EXTINF:-1 tvg-id="ufcfightnightmaincardreinierderiddervsbrendanallen" tvg-name="UFC Fight Night | UFC Fight Night Main Card : Reinier de Ridder vs Brendan Allen (01:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Reinier de Ridder_vs_Brendan Allen.png" group-title="Eventi Live",UFC Fight Night | UFC Fight Night Main Card : Reinier de Ridder vs Brendan Allen (01:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="tourofhollandstage4menemmenvamberg159km" tvg-name="Cycling | Tour of Holland | Stage 4 Men | Emmen – Vam Berg (159km) (14:00)" tvg-logo="https://www.procyclingstats.com/images/shirts/bx/eb/intermarche-wanty-2025-n2.png" group-title="Eventi Live",Cycling | Tour of Holland | Stage 4 Men | Emmen – Vam Berg (159km) (14:00)
+#EXTINF:-1 tvg-id="tourofhollandstage4menemmenvamberg159km" tvg-name="Cycling | Tour of Holland | Stage 4 Men | Emmen – Vam Berg (159km) (14:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/033/235/273/non_2x/netherlands-map-map-of-holland-in-administrative-regions-png.png" group-title="Eventi Live",Cycling | Tour of Holland | Stage 4 Men | Emmen – Vam Berg (159km) (14:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
