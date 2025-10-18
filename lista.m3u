@@ -1180,13 +1180,13 @@ https://vavoo.to/play/2392139008/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1200985239/index.m3u8
+https://vavoo.to/play/1565298794/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIA 3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1565298794/index.m3u8
+https://vavoo.to/play/1200985239/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1234,13 +1234,13 @@ https://vavoo.to/play/2835333400/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3889279895/index.m3u8
+https://vavoo.to/play/3758728323/index.m3u8
 
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3758728323/index.m3u8
+https://vavoo.to/play/3889279895/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ONDA NOVARA TV" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1840,7 +1840,7 @@ https://thedaddy.click/stream/stream-160.php
 #EXTINF:-1 tvg-id="italyseriecospitalettovscittadella" tvg-name="All Soccer Events | Italy - Serie C : Ospitaletto vs Cittadella (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ospitaletto_vs_Cittadella.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Ospitaletto vs Cittadella (17:30)
 https://thedaddy.click/stream/stream-164.php
 
-#EXTINF:-1 tvg-id="italyseriecgubbiovsnuovamonterosi" tvg-name="All Soccer Events | Italy - Serie C : Gubbio vs Nuova Monterosi (17:30)" tvg-logo="https://gemeinden.erzbistum-koeln.de/export/sites/gemeinden/gubbio_obdachlosenseelsorge/.galleries/bilder/3774214a-f188-48f4-a258-fb508a963f87_200x200.png_178094466.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Gubbio vs Nuova Monterosi (17:30)
+#EXTINF:-1 tvg-id="italyseriecgubbiovsnuovamonterosi" tvg-name="All Soccer Events | Italy - Serie C : Gubbio vs Nuova Monterosi (17:30)" tvg-logo="http://www.alkimiagubbio.com/wp-content/uploads/2021/11/logo_comune_gubbio.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Gubbio vs Nuova Monterosi (17:30)
 https://thedaddy.click/stream/stream-213.php
 
 #EXTINF:-1 tvg-id="italyseriecpianesevsbra" tvg-name="All Soccer Events | Italy - Serie C : Pianese vs Bra (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pianese_vs_Bra.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pianese vs Bra (17:30)
@@ -1876,7 +1876,7 @@ https://new.newkso.ru/wind/premium870/mono.m3u8
 #EXTINF:-1 tvg-id="franceligue1olympiquemarseillevslehavre" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Marseille vs Le Havre (21:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Marseille_vs_Le Havre.png" group-title="Eventi Live",All Soccer Events | France - Ligue 1 : Olympique Marseille vs Le Havre (21:05)
 https://thedaddy.click/stream/stream-164.php
 
-#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)" tvg-logo="https://assets.stickpng.com/thumbs/6266993f2c88722059d58711.png" group-title="Eventi Live",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)
+#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2024/04/26/c0aafbd2-cead-4109-9bc5-f6c30984c189/Osaka-Torso_319998.png?width=950" group-title="Eventi Live",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -1894,7 +1894,7 @@ https://new.newkso.ru/nfs/premium577/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/nfs/premium577/mono.m3u8
 
-#EXTINF:-1 tvg-id="tourofhollandstage4menemmenvamberg159km" tvg-name="Cycling | Tour of Holland | Stage 4 Men | Emmen – Vam Berg (159km) (14:00)" tvg-logo="https://www.procyclingstats.com/images/shirts/bx/eb/volkerwessels-cyclingteam-2025.png" group-title="Eventi Live",Cycling | Tour of Holland | Stage 4 Men | Emmen – Vam Berg (159km) (14:00)
+#EXTINF:-1 tvg-id="tourofhollandstage4menemmenvamberg159km" tvg-name="Cycling | Tour of Holland | Stage 4 Men | Emmen – Vam Berg (159km) (14:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/033/235/273/non_2x/netherlands-map-map-of-holland-in-administrative-regions-png.png" group-title="Eventi Live",Cycling | Tour of Holland | Stage 4 Men | Emmen – Vam Berg (159km) (14:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -1912,7 +1912,7 @@ https://new.newkso.ru/ddy6/premium462/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium882/mono.m3u8
 
-#EXTINF:-1 tvg-id="skijumpingsummergrandprixinhinzenbach" tvg-name="Ski Jumping | Ski Jumping: Summer Grand Prix in Hinzenbach (14:00)" tvg-logo="https://usaskijumping.com/wp-content/uploads/2024/11/USASJlogo.png" group-title="Eventi Live",Ski Jumping | Ski Jumping: Summer Grand Prix in Hinzenbach (14:00)
+#EXTINF:-1 tvg-id="skijumpingsummergrandprixinhinzenbach" tvg-name="Ski Jumping | Ski Jumping: Summer Grand Prix in Hinzenbach (14:00)" tvg-logo="http://freevector.co/wp-content/uploads/2009/01/9157-ski-jumping1.png" group-title="Eventi Live",Ski Jumping | Ski Jumping: Summer Grand Prix in Hinzenbach (14:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
